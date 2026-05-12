@@ -1,2 +1,4 @@
 # ecskurs
-Ödev1: (https://colab.research.google.com/drive/1u82N9hLydx1KBn247ffEw1cep2sazZwX?usp=sharing)
+1. hafta - ödev1: (https://colab.research.google.com/drive/1u82N9hLydx1KBn247ffEw1cep2sazZwX?usp=sharing)
+2. hafta - ödev1: (https://colab.research.google.com/drive/1XPYS2Tz8S5WIVcgq9x_sSEChZk204E3H?usp=sharing)
+2. hafta - ödev2: ()
