@@ -5,3 +5,5 @@
     - ödev1: (https://colab.research.google.com/drive/1XPYS2Tz8S5WIVcgq9x_sSEChZk204E3H?usp=sharing)
     - ödev2: (https://colab.research.google.com/drive/1l7BJMUErnE1PGLuYcZmLm64pvyyQc3wq)
     - ödev3: (https://colab.research.google.com/drive/1WuZJCUcf_6njtpM9rNddi8ihhRonEsPW?usp=sharing)
+    2. hafta 2. ders (https://colab.research.google.com/drive/1S1WykGBw5lxFj8m1XREHh_QCNkfiKhAf?usp=sharing)
+3. hafta - (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)
