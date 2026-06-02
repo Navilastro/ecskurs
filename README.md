@@ -8,4 +8,3 @@
     2. hafta 2. ders (https://colab.research.google.com/drive/1S1WykGBw5lxFj8m1XREHh_QCNkfiKhAf?usp=sharing)
 3. hafta - (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)
     - ödev1: ()
-    - Önceden kendi geliştirmiş olduğum uygulamalar: (https://github.com/Navilastro/DoYaDi) ve (https://github.com/Navilastro/ZihNot) //Geliştirmesi devam ediyor...
