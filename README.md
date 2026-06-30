@@ -8,3 +8,8 @@
     2. hafta 2. ders (https://colab.research.google.com/drive/1S1WykGBw5lxFj8m1XREHh_QCNkfiKhAf?usp=sharing)
 3. hafta - (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)
     - ödev1: ()
+4. hafta -
+5. hafta -
+6. hafta -
+7. hafta -
+    - ödev1: https://huggingface.co/spaces/Navilastro/ecs_AracFiyatTahmin
