@@ -9,11 +9,10 @@
 |**2. hafta**| 2. Ödev | (https://colab.research.google.com/drive/1l7BJMUErnE1PGLuYcZmLm64pvyyQc3wq)|
 |**2. hafta**| 3. Ödev | (https://colab.research.google.com/drive/1WuZJCUcf_6njtpM9rNddi8ihhRonEsPW?usp=sharing)|
 |**3. hafta**| 1. Ders | (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)|
-|**3. hafta**| 1. Ders | (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)|
+|**3. hafta**| 2. Ders | (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)|
 |**3. hafta**| 1. Ödev | () |
-|**4. hafta**| 1. Ders | 
-|**5. hafta**| 1. Ders | 
+|**4. hafta**| 1. Ders | (https://colab.research.google.com/drive/1SeQnL21qqA6N_7Sosq67JqAI_wTS6iUX?usp=sharing) |
+|**5. hafta**| 1. Ders | () |
 |**6. hafta**| 1. Ders | 
-|**7. hafta**| 1. Ders | 
 |**7. hafta**| 2. Ders | (https://colab.research.google.com/drive/1oL0r5NZm0cANn-g12zSm4Yed-WUIcSU_?usp=sharing) |
 |**7. hafta**| 1. Ödev | (https://huggingface.co/spaces/Navilastro/ecs_AracFiyatTahmi) |
