@@ -13,6 +13,6 @@
 |**3. hafta**| 1. Ödev | () |
 |**4. hafta**| 1. Ders | (https://colab.research.google.com/drive/1SeQnL21qqA6N_7Sosq67JqAI_wTS6iUX?usp=sharing) |
 |**5. hafta**| 1. Ders | () |
-|**6. hafta**| 1. Ders | 
+|**6. hafta**| 1. Ders | (https://colab.research.google.com/drive/1X4ZDeuLTFPkEC-p0vWOoGslxkUdYFuOy?usp=sharing) |
 |**7. hafta**| 2. Ders | (https://colab.research.google.com/drive/1oL0r5NZm0cANn-g12zSm4Yed-WUIcSU_?usp=sharing) |
 |**7. hafta**| 1. Ödev | (https://huggingface.co/spaces/Navilastro/ecs_AracFiyatTahmi) |
