@@ -7,7 +7,8 @@
     - ödev3: (https://colab.research.google.com/drive/1WuZJCUcf_6njtpM9rNddi8ihhRonEsPW?usp=sharing)
     2. hafta 2. ders - (https://colab.research.google.com/drive/1S1WykGBw5lxFj8m1XREHh_QCNkfiKhAf?usp=sharing)<br><br>
 3. hafta - (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)
-   3. hafta 2. ders - (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)
+
+    3. hafta 2. ders - (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)
     - ödev1: ()<br><br>
 4. hafta -
 5. hafta -
