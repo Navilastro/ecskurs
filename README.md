@@ -1,4 +1,6 @@
 # ecskurs
+| Hafta | Tür | Bağlantı |
+| :--- | :--- | :--- |
 |**1. hafta**| 1. Ders | (https://colab.research.google.com/drive/19m1s08Zz_zYsu2s9vgBs5TlXl-p2Dbwh?usp=sharing)|
 |**1. hafta**| 1. Ödev1 | (https://colab.research.google.com/drive/1u82N9hLydx1KBn247ffEw1cep2sazZwX?usp=sharing)|<br><br>
 |**2. hafta**| 1. Ders | (https://colab.research.google.com/drive/1G96ifHinqTFkvBBsICpHVjOGCs1j-fLG?usp=sharing)|
