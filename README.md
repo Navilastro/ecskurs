@@ -10,7 +10,7 @@
 |**2. hafta**| 3. Ödev | (https://colab.research.google.com/drive/1WuZJCUcf_6njtpM9rNddi8ihhRonEsPW?usp=sharing)|
 |**3. hafta**| 1. Ders | (https://colab.research.google.com/drive/1OmJoMoUBJyam0iJSHGHmRhaes-qQfeHz?usp=sharing)|
 |**3. hafta**| 2. Ders | (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)|
-|**3. hafta**| 1. Ödev | (https://ai.studio/apps/b83b2caf-2213-4efa-85ba-311e7188841c) |
+|**3. hafta**| 1. Ödev | (https://ai.studio/apps/981154cd-aec2-40f7-89e2-34b0693012c3) |
 |**4. hafta**| 1. Ders | (https://colab.research.google.com/drive/1SeQnL21qqA6N_7Sosq67JqAI_wTS6iUX?usp=sharing) |
 |**5. hafta**| 1. Ders | () |
 |**6. hafta**| 1. Ders | (https://colab.research.google.com/drive/1X4ZDeuLTFPkEC-p0vWOoGslxkUdYFuOy?usp=sharing) |
