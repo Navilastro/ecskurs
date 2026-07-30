@@ -12,7 +12,8 @@
 |**3. hafta**| 2. Ders | (https://colab.research.google.com/drive/1gBggLEkAmv1uDi5dGveMvVaTXEK1iCnd?usp=sharing)|
 |**3. hafta**| 1. Ödev | (https://ai.studio/apps/981154cd-aec2-40f7-89e2-34b0693012c3) |
 |**4. hafta**| 1. Ders | (https://colab.research.google.com/drive/1SeQnL21qqA6N_7Sosq67JqAI_wTS6iUX?usp=sharing) |
-|**5. hafta**| 1. Ders | () |
+|**4. hafta**| 2. Ders | (https://www.kaggle.com/code/efepehlivan/vb-90-2-titanic-veri-analizi) |
+|**5. hafta**| 1. Ders | (https://www.kaggle.com/code/efepehlivan/vb-90-2-titanic-veri-analizi) |
 |**6. hafta**| 1. Ders | (https://colab.research.google.com/drive/1X4ZDeuLTFPkEC-p0vWOoGslxkUdYFuOy?usp=sharing) |
 |**7. hafta**| 2. Ders | (https://colab.research.google.com/drive/1oL0r5NZm0cANn-g12zSm4Yed-WUIcSU_?usp=sharing) |
 |**7. hafta**| 3. Ders | 1. kısım: (https://colab.research.google.com/drive/1slbSizDpbJ_DnFQBzi9WjpEZzAxerhcB?usp=sharing) |
