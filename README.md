@@ -21,7 +21,7 @@
 |**7. hafta**| 3. Ders | 3. kısım: (https://colab.research.google.com/drive/1bvkc0piDKvT17Rwzn8eHiv6l7KLglLSL?usp=sharing) |
 |**7. hafta**| 1. Ödev | (https://huggingface.co/spaces/Navilastro/ecs_AracFiyatTahmi) |
 |**7. hafta**| 2. Ödev | () |
-|**8. hafta**| 1. Ders | () |
+|**8. hafta**| 1. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
 |**8. hafta**| 2. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
 |**8. hafta**| 3. Ders | () |
 |**8. hafta**| 1. Ödev | () |
