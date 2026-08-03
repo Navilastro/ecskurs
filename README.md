@@ -23,9 +23,9 @@
 |**7. hafta**| 2. Ödev | () |
 |**8. hafta**| 1. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
 |**8. hafta**| 2. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
-|**8. hafta**| 3. Ders ve 9. Hafta 1. Hafta | (https://colab.research.google.com/drive/18XHvHct4RVrkUlNDC_QhN0EXAsDm2axo?usp=sharing) |
-|**9. hafta**| 1 ve 2. Ders | () |
-|**9. hafta**| 3. Ders | () |
+|**8. hafta**| 3. Ders | (https://colab.research.google.com/drive/18XHvHct4RVrkUlNDC_QhN0EXAsDm2axo?usp=sharing) |
+|**9. hafta**| 1 ve 2. Ders ve 1. ödev | (https://colab.research.google.com/drive/18XHvHct4RVrkUlNDC_QhN0EXAsDm2axo?usp=sharing) |
+|**9. hafta**| 3. Ders | (https://colab.research.google.com/drive/1uiFZ5ap-AAPrDOLPJhwOd12P93OwftRf?usp=sharing) |
 |**10. hafta**| 1. Ders | () |
 |**10. hafta**| 1. Ders | () |
 |**10. hafta**| 2. Ders 1. Kısım| () |
