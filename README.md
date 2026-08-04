@@ -33,5 +33,5 @@
 |**10. hafta**| 3. Ders | (https://colab.research.google.com/drive/1f5xDmR3CoAVYLOdK2KskAwkoeM0DOZV8?usp=sharing) |
 |**11. hafta**| 1. Ders | (https://colab.research.google.com/drive/1EEhWRrKENUwipFhk7pdL6QYzD6qdKJ8O?usp=sharing) |
 |**11. hafta**| 2. Ders | (...) |
-|**11. hafta**| 3. Ders | () |
+|**11. hafta**| 3. Ders | (https://colab.research.google.com/drive/1P5lsEm21xh5Um9DcQQV7hMsx9eiI7G6b?usp=sharing) |
 
