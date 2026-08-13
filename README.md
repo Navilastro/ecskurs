@@ -35,3 +35,4 @@
 |**11. hafta**| 2. Ders | (...) |
 |**11. hafta**| 3. Ders | (https://colab.research.google.com/drive/1P5lsEm21xh5Um9DcQQV7hMsx9eiI7G6b?usp=sharing) |
 |**12. hafta**| 1. Ders | (https://colab.research.google.com/drive/1-4W02YxK1oAsDLyw9AdeXn3fxgREutAR?usp=sharing) |
+|**12. hafta**| 2. Ders | (https://colab.research.google.com/drive/1UOXMjS_TiLfIBa0HZPLUR6zOtSamXKWM?usp=sharing) |
