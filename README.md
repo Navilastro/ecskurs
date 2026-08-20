@@ -32,6 +32,7 @@
 |**10. hafta**| 2. Ders 2. Kısım| (https://colab.research.google.com/drive/1DRPtEv1Fd-RB2l6Ec1qWA5M4WVbPyC_1?usp=sharing) |
 |**10. hafta**| 3. Ders | (https://colab.research.google.com/drive/1f5xDmR3CoAVYLOdK2KskAwkoeM0DOZV8?usp=sharing) |
 |**11. hafta**| 1. Ders | (https://colab.research.google.com/drive/1EEhWRrKENUwipFhk7pdL6QYzD6qdKJ8O?usp=sharing) |
+|**11. hafta**| 1. Ödev | (https://gorselfiltreleme.streamlit.app/) |
 |**11. hafta**| 2. Ders | (...) |
 |**11. hafta**| 3. Ders | (https://colab.research.google.com/drive/1P5lsEm21xh5Um9DcQQV7hMsx9eiI7G6b?usp=sharing) |
 |**12. hafta**| 1. Ders | (https://colab.research.google.com/drive/1-4W02YxK1oAsDLyw9AdeXn3fxgREutAR?usp=sharing) |
