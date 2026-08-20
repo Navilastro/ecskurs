@@ -20,7 +20,7 @@
 |**7. hafta**| 3. Ders | 2. kısım: (https://colab.research.google.com/drive/1bCJqatAUiMgl0R9OcwogAIl2HB-rGiyj?usp=sharing) |
 |**7. hafta**| 3. Ders | 3. kısım: (https://colab.research.google.com/drive/1bvkc0piDKvT17Rwzn8eHiv6l7KLglLSL?usp=sharing) |
 |**7. hafta**| 1. Ödev | (https://huggingface.co/spaces/Navilastro/ecs_AracFiyatTahmi) |
-|**7. hafta**| 2. Ödev | () |
+|**7. hafta**| 2. Ödev | (https://colab.research.google.com/drive/1aVwX7kDCaPI8APhMDXbluzIyvIgk2CZP?usp=sharing) |
 |**8. hafta**| 1. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
 |**8. hafta**| 2. Ders | (https://colab.research.google.com/drive/1F_Lpqvj_WuutPElnlUDknBZVK9OwLrZL?usp=sharing) |
 |**8. hafta**| 3. Ders | (https://colab.research.google.com/drive/18XHvHct4RVrkUlNDC_QhN0EXAsDm2axo?usp=sharing) |
